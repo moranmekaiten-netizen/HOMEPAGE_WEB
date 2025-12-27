@@ -1,0 +1,12 @@
+body {
+    direction: ltr;
+    background-color: rgba(196, 224, 199, 0.8);
+}
+
+header p {
+    font-size: 0.9rem;
+}
+
+aside {
+    margin-top: 30px;
+}
